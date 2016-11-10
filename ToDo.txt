@@ -1,4 +1,5 @@
 Person B made a change.
+Here you can see 2 most important organs, rt kidney and lt kidney.
 
 What did you do? 
 I did it!
